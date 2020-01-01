@@ -33,7 +33,7 @@ body{
 }
 .imgblock{
 	
-	background-image: url('selected.jpg');
+	background-image: url('/selected.jpg');
 	background-color: #cccccc; 
   height: 700px; 
   background-position: center; 
